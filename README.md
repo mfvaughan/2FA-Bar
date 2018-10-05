@@ -1,5 +1,5 @@
 # 2FA-Bar
-Walkthrough on how to enable displaying time-based one-time passwords for (that are generated through authenticator apps) on MacOSX toolbar.
+Walkthrough on how to enable displaying time-based one-time passwords (that are usually generated and copied through authenticator apps) on MacOSX toolbar.
 
 
 ## Initial Setup:
