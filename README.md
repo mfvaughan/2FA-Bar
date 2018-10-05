@@ -16,7 +16,7 @@ Walkthrough on how to enable displaying time-based one-time passwords (that are 
 6. After scaning, take special note of the "secret" at the end of the URI starting with "otpauth://" (e.g., "totp/alice@google.com?secret=asdf2135"). In this example, the secret would be "asdf1235", and this is what you will need to store in a separate credentials file in a safe place.
 
 
-## BitBar Setup
+## BitBar Setup:
 1. Install BitBar (linked above) and create a new empty Plugins folder.
 
 2. Create a python file "otp.py" with the following code:
